@@ -1,4 +1,4 @@
-# Mr_Chibi's Minigames Assets!
+# Mr_Chibi's Map Assets
 * **It's Singleplayer & Multiplayer Friendly!**
 
 ## What Unique Features does pack offer?
