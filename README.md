@@ -1,4 +1,4 @@
-# Mr_Chibi's Minigames datapack!
+# Mr_Chibi's Minigames Assets!
 * **It's Singleplayer & Multiplayer Friendly!**
 
 ## What Unique Features does pack offer?
